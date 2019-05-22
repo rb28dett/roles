@@ -1,0 +1,14 @@
+{
+    "items": [
+        {
+            "permission": "rb28dett::roles.access",
+            "trans": "rb28dett_roles::general.role_list",
+            "route": "rb28dett::roles.index"
+        },
+        {
+            "permission": "rb28dett::roles.create",
+            "trans": "rb28dett_roles::general.create_role",
+            "route": "rb28dett::roles.create"
+        }
+    ]
+}

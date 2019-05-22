@@ -1,0 +1,10 @@
+[
+    {
+        "view": "rb28dett_roles::widgets.users",
+        "permission": "rb28dett::roles.access"
+    },
+    {
+        "view": "rb28dett_roles::widgets.permissions",
+        "permission": "rb28dett::roles.access"
+    }
+]
